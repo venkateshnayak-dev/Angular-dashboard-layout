@@ -1,0 +1,13 @@
+.myblock{
+    /* background-image: url('../../assets/images/mail-box.jpg'); */
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-size: cover;
+    margin: auto;
+}
+.messageSent{
+    text-align: center;
+    color: #12988f;
+    font-weight: 500;
+}
